@@ -16,4 +16,4 @@ OpenCV was then used to capture live feed through Camera, run model on each fram
 
 4. IMPROVEMENT
 --------------
-While collecting data (images) for Masked faces, I noticed that for some images faces of people were not in focus(or small compared to the image). Impact of this that model accurately recognises Non-masked face accurately compared to Masked face. But saying this, the model prediction works like wonder for most of the times.
+While collecting data (images) for Masked faces, I noticed that for some images faces of people were not in focus(or small compared to the image). Impact of this that model accurately recognises Non-masked face compared to Masked face. But saying this, the model prediction works like wonder for most of the times.
